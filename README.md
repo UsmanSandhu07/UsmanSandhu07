@@ -4,9 +4,6 @@
 
 Based in Lahore, Pakistan, I build practical AI systems that connect strong engineering foundations with measurable business outcomes  -  from retrieval and evaluation workflows to automation and deployment.
 
-[![GitHub](https://img.shields.io/badge/GitHub - UsmanSandhu07 - 181717?logo=github&logoColor=white)](https://github.com/UsmanSandhu07)
-[![Python](https://img.shields.io/badge/Python - ML%20%26%20Automation - 3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch - Deep%20Learning - EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 ## What I work on
 
