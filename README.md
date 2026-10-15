@@ -1,0 +1,56 @@
+# Muhammad Usman Sandhu
+
+### AI/ML Engineer · LLM Systems · Intelligent Automation · MLOps
+
+Based in Lahore, Pakistan, I build practical AI systems that connect strong engineering foundations with measurable business outcomes—from retrieval and evaluation workflows to automation and deployment.
+
+[![GitHub](https://img.shields.io/badge/GitHub-UsmanSandhu07-181717?logo=github&logoColor=white)](https://github.com/UsmanSandhu07)
+[![Python](https://img.shields.io/badge/Python-ML%20%26%20Automation-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+
+## What I work on
+
+- **LLM applications:** RAG systems, prompt and model evaluation, agent workflows, and responsible AI controls.
+- **Machine learning:** classification, NLP, deep learning, experiment design, and reproducible training pipelines.
+- **Automation:** Python services and workflow automation that reduce manual effort and make decisions traceable.
+- **Production engineering:** APIs, containers, CI/CD, cloud integrations, and observability for reliable delivery.
+
+## Featured projects
+
+- **[Pathfinder Atlas](https://github.com/UsmanSandhu07/pathfinder-atlas)** — CV-aware career research workspace for GitHub, Kaggle, researchers, and roles.
+- **[Paperloom Studio](https://github.com/UsmanSandhu07/paperloom-studio)** — Research briefings from arXiv papers, with LLM synthesis and PDF export.
+- **[Agent Fence](https://github.com/UsmanSandhu07/agent-fence)** — Framework-agnostic controls for agent safety, approval, masking, auditing, and least privilege.
+- **[Dermis Lens](https://github.com/UsmanSandhu07/dermis-lens)** — EfficientNet-B0 lesion-screening research demo. Not a medical device.
+- **[Pulse Draft](https://github.com/UsmanSandhu07/pulse-draft)** — Agent-assisted drafting for professional-network content.
+- **[Savanna Pulse](https://github.com/UsmanSandhu07/savanna-pulse)** — SME financial-health classification pipeline using survey data.
+
+> Some repositories build on open-source foundations. Please see each project for its source, license, and usage context.
+
+## Technical toolkit
+
+**AI & ML** — Python, PyTorch, Transformers, scikit-learn, LangChain, RAG, embeddings, vector search, model evaluation
+
+**Backend & data** — FastAPI, Flask, Django, REST APIs, PostgreSQL, MongoDB, Redis
+
+**Automation & orchestration** — Playwright, Selenium, Airflow, Prefect
+
+**MLOps & platform** — Docker, Kubernetes, GitHub Actions, Jenkins, AWS, Azure, GCP
+
+## Experience
+
+**Senior AI & Automation Engineer** · Nexawave Technologies · Feb 2022 – Present
+
+**AI/ML Engineer — Automation Focus** · Datastream Solutions · Jan 2019 – Jan 2022
+
+**Software Automation Engineer** · BrightLogic Systems · Oct 2016 – Dec 2018
+
+**Software Engineer** · CodeCraft Labs · Jul 2014 – Sep 2016
+
+## Education
+
+**BS Computer Science** · University of the Punjab, Lahore · 2010–2014
+
+## Connect
+
+- Email: [sandhuusman826@gmail.com](mailto:sandhuusman826@gmail.com)
+- GitHub: [@UsmanSandhu07](https://github.com/UsmanSandhu07)
