@@ -4,7 +4,7 @@
 
 **12+ Years in Software Engineering, AI & Automation**
 
-📍 Lahore, Pakistan | Open to Remote Opportunities
+📍 Lahore, Pakistan 
 
 [![GitHub](https://img.shields.io/badge/GitHub-UsmanSandhu07-181717?logo=github)](https://github.com/UsmanSandhu07)
 [![Python](https://img.shields.io/badge/Python-Expertise-3776AB?logo=python&logoColor=white)](https://www.python.org/)
