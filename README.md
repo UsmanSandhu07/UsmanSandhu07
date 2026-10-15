@@ -1,84 +1,57 @@
 # Muhammad Usman Sandhu
 
-### AI/ML Engineer | LLM Systems | Intelligent Automation | MLOps
+### AI/ML Engineer · LLM Systems · Intelligent Automation · MLOps
 
-**12+ Years in Software Engineering, AI & Automation**
+Based in Lahore, Pakistan, I build practical AI systems that connect strong engineering foundations with measurable business outcomes—from retrieval and evaluation workflows to automation and deployment.
 
-📍 Lahore, Pakistan 
-
-[![GitHub](https://img.shields.io/badge/GitHub-UsmanSandhu07-181717?logo=github)](https://github.com/UsmanSandhu07)
-[![Python](https://img.shields.io/badge/Python-Expertise-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-UsmanSandhu07-181717?logo=github&logoColor=white)](https://github.com/UsmanSandhu07)
+[![Python](https://img.shields.io/badge/Python-ML%20%26%20Automation-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
----
+## What I work on
 
-## About Me
+- **LLM applications:** RAG systems, prompt and model evaluation, agent workflows, and responsible AI controls.
+- **Machine learning:** classification, NLP, deep learning, experiment design, and reproducible training pipelines.
+- **Automation:** Python services and workflow automation that reduce manual effort and make decisions traceable.
+- **Production engineering:** APIs, containers, CI/CD, cloud integrations, and observability for reliable delivery.
 
-I am an AI and Automation Engineer with a professional background spanning software engineering, machine learning, intelligent process automation, and large language model systems.
+## Featured projects
 
-My technical work focuses on designing machine learning workflows, evaluating and improving LLM systems, building intelligent automation pipelines, and integrating AI capabilities into scalable business applications.
+| Project | Focus |
+| --- | --- |
+| [Pathfinder Atlas](https://github.com/UsmanSandhu07/pathfinder-atlas) | CV-aware career research workspace for GitHub, Kaggle, researchers, and roles. |
+| [Paperloom Studio](https://github.com/UsmanSandhu07/paperloom-studio) | Research briefings from arXiv papers, with LLM synthesis and PDF export. |
+| [Agent Fence](https://github.com/UsmanSandhu07/agent-fence) | Framework-agnostic controls for agent safety, approval, masking, auditing, and least privilege. |
+| [Dermis Lens](https://github.com/UsmanSandhu07/dermis-lens) | EfficientNet-B0 lesion-screening research demo. Not a medical device. |
+| [Pulse Draft](https://github.com/UsmanSandhu07/pulse-draft) | Agent-assisted drafting for professional-network content. |
+| [Savanna Pulse](https://github.com/UsmanSandhu07/savanna-pulse) | SME financial-health classification pipeline using survey data. |
 
-**Core Areas of Expertise**
-- Large Language Models, RLHF, SFT, and Model Evaluation
-- Machine Learning, Deep Learning, and NLP
-- Retrieval-Augmented Generation and Vector Databases
-- Python Automation, Workflow Orchestration, and RPA
-- FastAPI, Backend Development, and API Integration
-- MLOps, Docker, Kubernetes, and CI/CD
-- AI Benchmarking, Red-Teaming, and Evaluation Frameworks
+> Some repositories build on open-source foundations. Please see each project for its source, license, and usage context.
 
----
+## Technical toolkit
 
-## Professional Experience
+**AI & ML** — Python, PyTorch, Transformers, scikit-learn, LangChain, RAG, embeddings, vector search, model evaluation
 
-**Senior AI & Automation Engineer**  
-Nexawave Technologies | Feb 2022 – Present
+**Backend & data** — FastAPI, Flask, Django, REST APIs, PostgreSQL, MongoDB, Redis
 
-**AI/ML Engineer — Automation Focus**  
-Datastream Solutions | Jan 2019 – Jan 2022
+**Automation & orchestration** — Playwright, Selenium, Airflow, Prefect
 
-**Software Automation Engineer**  
-BrightLogic Systems | Oct 2016 – Dec 2018
+**MLOps & platform** — Docker, Kubernetes, GitHub Actions, Jenkins, AWS, Azure, GCP
 
-**Software Engineer**  
-CodeCraft Labs | Jul 2014 – Sep 2016
+## Experience
 
----
-
-## Technical Skills
-
-**AI/ML:** Python, PyTorch, Transformers, scikit-learn, LangChain, RAG, RLHF, SFT
-
-**Backend:** FastAPI, Flask, Django, Node.js, REST APIs
-
-**Automation:** Selenium, Playwright, Airflow, Prefect
-
-**DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins
-
-**Cloud & Databases:** AWS, GCP, Azure, PostgreSQL, MongoDB, Redis
-
----
-
-## Selected AI/ML Repositories
-
-These development workspaces are based on existing open-source projects. Original authorship and licenses are preserved.
-
-- [ZenML Projects](https://github.com/UsmanSandhu07/zenml-projects)
-- [MLflow ML Project](https://github.com/UsmanSandhu07/mlflow-ml-project)
-- [Transformers Research](https://github.com/UsmanSandhu07/transformers-research)
-
-*These repositories are currently private.*
-
----
+| Role | Organization | Period |
+| --- | --- | --- |
+| Senior AI & Automation Engineer | Nexawave Technologies | Feb 2022 – Present |
+| AI/ML Engineer — Automation Focus | Datastream Solutions | Jan 2019 – Jan 2022 |
+| Software Automation Engineer | BrightLogic Systems | Oct 2016 – Dec 2018 |
+| Software Engineer | CodeCraft Labs | Jul 2014 – Sep 2016 |
 
 ## Education
 
-**BS Computer Science**  
-University of the Punjab, Lahore | 2010–2014
+**BS Computer Science** · University of the Punjab, Lahore · 2010–2014
 
----
+## Connect
 
-## Contact
-
-📧 sandhuusman826@gmail.com  
-📍 Lahore, Pakistan
+- Email: [sandhuusman826@gmail.com](mailto:sandhuusman826@gmail.com)
+- GitHub: [@UsmanSandhu07](https://github.com/UsmanSandhu07)
